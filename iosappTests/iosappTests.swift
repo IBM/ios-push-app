@@ -1,10 +1,6 @@
 //
 //  iosappTests.swift
 //  iosappTests
-//
-//  Created by Anantha Krishnan K G on 29/07/20.
-//  Copyright © 2020 Ananth. All rights reserved.
-//
 
 import XCTest
 @testable import iosapp
