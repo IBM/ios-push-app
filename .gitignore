@@ -11,4 +11,4 @@ DerivedData/
 
 BMSCredentials.plist
 Pods/
-Podfile.lock
+./Podfile.lock
